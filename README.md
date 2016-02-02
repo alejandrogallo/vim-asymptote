@@ -5,5 +5,5 @@ NON OFFICAL vim asymptote syntax highlighting mirror
 
 # Install
 
-    Bundle 'hura/vim-asymptote'
+    Plugin 'hura/vim-asymptote'
     
